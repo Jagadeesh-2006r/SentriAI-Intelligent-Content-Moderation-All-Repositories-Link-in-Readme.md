@@ -2,11 +2,7 @@
 
 ## Overview
 
-SentriAI is an AI-powered Intelligent Content Moderation System designed to create safer and more trustworthy digital communities by automatically detecting harmful, abusive, hateful, and inappropriate content before it reaches users. The system supports moderation of text, images, and videos using advanced Artificial Intelligence techniques, including Natural Language Processing (NLP), Computer Vision, and Speech Analysis.
-
-The solution integrates AI with UiPath Maestro Case to orchestrate moderation workflows, enabling seamless collaboration between AI agents and human moderators. Every uploaded piece of content is treated as a moderation case, analyzed in real time, and classified as **Safe**, **Flagged**, or **Blocked** based on predefined moderation policies. Flagged content is automatically routed to human moderators through UiPath Action Center for review, while safe content is published instantly and harmful content is blocked.
-
-SentriAI is built using a modern full-stack architecture with React.js for the frontend, FastAPI for the backend, and dedicated Machine Learning models powered by Hugging Face Transformers, PyTorch, OpenCV, and Whisper AI. UiPath Orchestrator manages agent execution, job monitoring, and audit logging, providing enterprise-grade governance and transparency.
+SentriAI is an AI-powered Intelligent Content Moderation System that automatically analyzes text, images, and videos to detect harmful, abusive, hateful, and inappropriate content in real time. By integrating AI with UiPath Maestro Case, Agent Builder, and Orchestrator, it enables automated moderation, human-in-the-loop review, and secure, transparent decision-making for safer digital communities.
 
 ---
 
