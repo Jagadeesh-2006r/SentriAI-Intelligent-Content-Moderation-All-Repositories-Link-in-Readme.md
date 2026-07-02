@@ -55,16 +55,23 @@ User Upload
 - JavaScript
 
 ### Backend
-- FastAPI
-- Python
+- Django
+- REST API'S
 
 ### AI & Machine Learning
-- Hugging Face Transformers
 - PyTorch
-- OpenCV
-- Whisper AI
-- Natural Language Processing (NLP)
-- Computer Vision
+- Hugging Face Transformers
+- BERT (unitary/toxic-bert) – Text Toxicity Detection
+- Vision Transformer (ViT) (Falconsai/nsfw_image_detection) – NSFW Image Detection
+- Whisper (base) – Speech-to-Text (ASR)
+- OpenCV – Video Frame Extraction
+- Pillow (PIL) – Image Processing
+- Librosa – Audio Preprocessing
+- MoviePy – Audio Extraction from Video
+- SoundFile – Audio File Handling
+
+### DataBase
+- MySql
 
 ### UiPath Components
 - UiPath Maestro Case
